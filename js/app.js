@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/mapBuild.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/NewUIMap.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
