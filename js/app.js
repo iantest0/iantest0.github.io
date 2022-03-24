@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/newQR.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/builds.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
